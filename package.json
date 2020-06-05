@@ -1,0 +1,24 @@
+{
+  "name": "LazyPackage",
+  "version": "1.0.0",
+  "description": "LazyPackage is a simple package that make your code lazy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirHaswell/LazyPackage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirHaswell/LazyPackage/issues"
+  },
+  "homepage": "https://github.com/SirHaswell/LazyPackage#readme",
+  "dependencies": {
+    "async-redis": "^1.1.7"
+  }
+}
