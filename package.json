@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/SirHaswell/LazyPackage#readme",
   "dependencies": {
-    "async-redis": "^1.1.7"
+    "async-redis": "^2.0.0"
   }
 }
